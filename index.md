@@ -1,29 +1,14 @@
-## Portfolio
-
 ---
 
-### Category Name 1 
+### Opinion
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[PyTorch/XLA is Generally Available] (https://medium.com/pytorch/pytorch-xla-is-now-generally-available-on-google-cloud-tpus-f9267f437832)
 ---
 
-### Category Name 2
+### Presentations
 
-- [Project 1 Title](http://example.com/)
+- [PyTorch At Scale on Cloud TPUs (Next 2020)] (https://youtu.be/iwtpwQRdb3Y)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
