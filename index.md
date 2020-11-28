@@ -2,12 +2,12 @@
 
 ### Opinion
 
-[PyTorch/XLA is Generally Available] (https://medium.com/pytorch/pytorch-xla-is-now-generally-available-on-google-cloud-tpus-f9267f437832)
+[PyTorch/XLA is Generally Available](https://medium.com/pytorch/pytorch-xla-is-now-generally-available-on-google-cloud-tpus-f9267f437832)
 ---
 
 ### Presentations
 
-- [PyTorch At Scale on Cloud TPUs (Next 2020)] (https://youtu.be/iwtpwQRdb3Y)
+- [PyTorch At Scale on Cloud TPUs](https://youtu.be/iwtpwQRdb3Y)
 - [Project 2 Title](http://example.com/)
 
 ---
