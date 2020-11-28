@@ -3,6 +3,7 @@
 ### Blog
 
 - [PyTorch/XLA is Generally Available](https://medium.com/pytorch/pytorch-xla-is-now-generally-available-on-google-cloud-tpus-f9267f437832)
+
 ---
 
 ### Presentations
