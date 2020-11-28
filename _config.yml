@@ -1,7 +1,6 @@
 title: Vaibhav Singh # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description:  # your text below (remove <br> elements if you don't need line breaks)
-  <center>
   <b>Machine Learning Platforms</b>
   <br>
   <a href="https://github.com/ultrons">GitHub</a>   
@@ -10,7 +9,6 @@ description:  # your text below (remove <br> elements if you don't need line bre
   <a> | </a>
   <a href="https://twitter.com/u1trons">Twitter</a> 
   <br><br>
-  </center>
   <b>Current Focus Areas&#58; </b><br>
   &#8901; Machine Learning Accelerators <br>
   &#8901; AI Platform on Google Cloud <br>
