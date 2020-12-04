@@ -3,6 +3,7 @@
 
 ### Blog
 
+- [Training Pytorch on Cloud TPUs](https://ultrons.medium.com/training-pytorch-on-cloud-tpus-be0649e4efbc)
 - [PyTorch/XLA is Generally Available](https://medium.com/pytorch/pytorch-xla-is-now-generally-available-on-google-cloud-tpus-f9267f437832)
 
 ---
